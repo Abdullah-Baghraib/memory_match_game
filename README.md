@@ -12,6 +12,10 @@ This is a classic memory card game. Players flip two cards each turn, trying to 
 - Clean and intuitive UI.
 - Fun and engaging experience for all ages.
 
+## Screenshots
+![image1](https://github.com/user-attachments/assets/1cdac37f-3cdf-407e-b3d5-70a18b775c6e)
+
+
 ## Getting Started
 
 To run the project locally:
